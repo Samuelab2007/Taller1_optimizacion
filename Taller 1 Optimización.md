@@ -9,7 +9,11 @@ Puntos críticos: $(\frac{1}{4} - \frac{3\sqrt(82)}{41}, -\frac{1}{2} - \frac{9\
 
 O en valores decimales: $(-0.41258, -0.74847)$, $(0.91258, -0.25152)$
 
-(falta adjuntar el colab)
+[Resultados notebook](Multiplicadores_Lagrange)
+
+Gráfico de la intersección de la restricción con la superficie:
+
+![[Pasted image 20250422215939.png]]
 
 ## Punto 2
 
